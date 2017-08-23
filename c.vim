@@ -1,5 +1,5 @@
 if (&ft != 'c')
     finish
 endif
-set shiftwidth=8 tabstop=8
+set shiftwidth=4 tabstop=4
 set noexpandtab
